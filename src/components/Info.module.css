@@ -1,0 +1,13 @@
+/* Works locally */
+
+.info {
+    max-width: 40%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+.myOtherButton {
+    background-color: coral;
+}
